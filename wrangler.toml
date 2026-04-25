@@ -9,7 +9,7 @@ name = "y-nav"
 main = "worker/index.ts"
 compatibility_date = "2024-01-01"
 
-# 静态资源目录 (Workers Sites)
+# 静态资源目 录 (Workers Sites)
 [site]
 bucket = "./dist"
 
